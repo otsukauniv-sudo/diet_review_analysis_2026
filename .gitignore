@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+outputs*/
+dietreview_data*/
+/Maindata/*
+!/Maindata/README.md
+*.csv
+*.ipynb
